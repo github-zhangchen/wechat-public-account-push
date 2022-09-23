@@ -62,9 +62,9 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "宝宝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oo6ky6TH23NwUEedvtbRCUy3O7As",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "tU46ZAgeJP9xhr5VdIHL8R8iVKp6TW_5Vs_vLxwfofs",
+      useTemplateId: "pk1IMv_MlMzanULvDNFcYbT8PFb0VOMsBtW8iIksFng",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -113,7 +113,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oo6ky6VHBxr-TUYsVM2BlVd-ey40",
     },
     // 你可以不断按格式往下增加
     // ...
@@ -128,7 +128,7 @@ export const USER_CONFIG = {
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
   PROVINCE: "广东",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "揭阳",
   
   /** 重要节日相关 */
   
